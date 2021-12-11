@@ -1,0 +1,290 @@
+img{
+    width: 150px;
+}
+.safe{
+    margin-top: 0px;
+}
+hr{
+    color: #808080;
+    width: 150px;
+    border: grey 2px solid;
+   /*here need this Line to be little bit bold or little bottom*/
+} 
+.p1{
+    font-size: 50px;
+    text-align: center;
+    font-weight: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.p2{
+    font-size: 20px;
+    text-align: center;
+    font-weight: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:gainsboro;
+}
+.p3{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.p4{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: indianred;
+line-height: 0px;
+}
+.tap{
+    margin-left: 20px;
+}
+.hr2{
+    width: 200px;
+    height: 200px;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    margin-top: 50px;
+}
+.taptax{
+    box-shadow: 3px black ;
+    /*box shadow will be add*/
+}
+.accutax{
+    position: absolute;
+    top: 300px;
+    bottom: 50px;
+}
+.taxapp{
+    margin-top: 60px;
+}
+.p5{
+    color:grey;
+    justify-content: flex-start;
+    margin-left: 20px;
+    font-display: block;
+}
+.ssr-time{
+    position: absolute;
+    right: 400px;
+    top: 425px;
+                              /*Box Shadow*/
+}
+.tax-time{
+    position: absolute;
+    top: 400px;
+}
+.short{
+    width: 50px;
+    height: 200px;
+    margin-left: 150px;
+}
+.white{
+                               /*Shadow*/
+    width: 1377;
+    
+    
+}
+.orange{
+    width: 300px;
+    height: 200px;
+                              /*Color Shadow*/
+}
+.bar{
+    position: absolute;
+    right: 50px;
+    top: 700px;
+}
+
+.p7{
+    font-size: 30px;
+    font-weight: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+
+}
+.p8{
+    font-size: 30px;
+    color: indianred;
+    font-weight: none;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 0px;
+    text-align: left;
+}
+.hr3{
+    padding-bottom: 2px;
+    margin-top: 40px;
+}
+.p9{
+    color: grey;
+}
+/* .button-1{
+    position: relative;
+    bottom: 115px;
+    left: 725px;
+} */
+.p-10{
+    position: relative;
+    bottom: 145px;
+    left: 750px;
+   color: red;
+                            /*Shadow*/
+}
+.ace-cloud{
+    margin-top: 500px;
+}
+.hr4{
+   padding-bottom: 2px;
+   width: 300px;
+
+}
+.p-11{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.aos{
+    margin-left: 200px;
+    padding-top: 100px;
+}
+li{
+    font-size: 30px;
+}
+.hr5{
+    padding-bottom: 2px;
+    width: 300px;
+}
+.p-12{
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hr6{
+    padding-bottom: 2px;
+    margin-top: 200px;
+}
+.p-13{
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ace-img{
+    position:relative;
+    left: 700px;
+     
+    width: 400px;
+    height: auto;
+}
+.cards{
+    margin-top: 200px;
+}
+.G1{
+    width: 250px;
+    height: auto;
+}
+.G2{
+    width: 250px;
+    height: auto;
+}
+.G3{
+    width: 300px;
+    height: auto;
+}
+.man-1{
+    position: absolute;
+    left: 100px;
+
+    
+    width: 150px;
+    height: auto;
+    margin-left: 50px;
+    margin-top: 80px;
+    border: 1px solid white;
+    border-radius: 80px;
+    
+}
+.girl{
+    position: absolute;
+    left: 440px;
+    margin-top: 40px;
+    margin-left: 80px;
+
+    border: 1px solid white;
+    border-radius: 80px;
+    
+}
+.man-2{
+    position: absolute;
+    left: 890px;
+    margin-top: 80px;
+    margin-left: 50px ;
+
+    border: 1px solid white;
+    border-radius: 80px;
+}
+.p-13{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-right: 80px;
+}
+.p-14{
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.p-15{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.four-star1{
+    margin-left: 40px;
+}
+.five-star{
+    margin-left: 65px;
+}
+.four-star2{
+    margin-left: 55px;
+}
+.p-16{
+    width: 250px;
+    text-align: center;
+    margin-top: 20px;
+}
+.p-17{
+width: 200px;
+text-align: center;
+margin-top: 15px;
+margin-left: 40px;
+}
+.p-18{
+    width: 250px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.r-m{
+    margin-left: 100px;
+    color: red;
+}
+
+/* .card-1{
+    border: 2px dotted grey;
+}
+.card-2{
+    border: 2px dotted grey;
+}
+.card-3{
+    border: 2px dotted grey;
+} */
+/* .book-img{
+width: 200px;
+height: auto;
+}
+.Q-book{
+    text-align: center;
+    color: indianred;
+}
+.p-19{
+
+} */
